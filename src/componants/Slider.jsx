@@ -7,10 +7,6 @@ const screenWidth = window.innerWidth;
 
 const Slider = () => {
 
-
-
-
-
   const [movieList, setMoviesList] = useState([]);
   const elementRef = useRef();
 
